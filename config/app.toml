@@ -1,0 +1,13 @@
+[app]
+name = "Asamacho Rent Watch"
+database_path = "data/rent_watch.sqlite3"
+request_timeout_seconds = 20
+user_agent = "AsamachoRentWatch/0.1 (+local MVP)"
+
+[search]
+area_name = "浅間町"
+address_keywords = ["横浜市西区浅間町"]
+station_keywords = []
+
+[schedule]
+poll_interval_minutes = 60

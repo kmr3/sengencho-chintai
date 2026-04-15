@@ -1,0 +1,7 @@
+[[alerts]]
+name = "asamacho-value"
+max_age_days = 3
+max_rent_man = 13
+min_area_sqm = 25
+max_walk_minutes = 12
+statuses = ["new", "updated", "reposted"]

@@ -1,0 +1,26 @@
+[[sources]]
+name = "suumo"
+kind = "suumo"
+enabled = true
+start_url = "https://suumo.jp/chintai/kanagawa/sc_yokohamashinishi/oz_14103015/"
+max_pages = 5
+encoding = "utf-8"
+notes = "浅間町の住所ページ。?page=N で追加ページを巡回。"
+
+[[sources]]
+name = "chintai"
+kind = "chintai"
+enabled = true
+start_url = "https://www.chintai.net/kanagawa/area/14103015/list/"
+max_pages = 9
+encoding = "utf-8"
+notes = "CHINTAI の浅間町ページ。?page=N で追加ページを巡回。"
+
+[[sources]]
+name = "yahoo"
+kind = "yahoo"
+enabled = true
+start_url = "https://realestate.yahoo.co.jp/rent/search/03/14/14103/4d5451784d444d774d54553d/"
+max_pages = 5
+encoding = "utf-8"
+notes = "Yahoo不動産の浅間町ページ。?page=N で追加ページを巡回。"
