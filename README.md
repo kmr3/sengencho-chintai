@@ -38,7 +38,7 @@
 ## セットアップ
 
 ```bash
-cd /Users/kmr/Desktop/asamacho-rent-watch
+cd /Users/XXX/Desktop/asamacho-rent-watch
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
