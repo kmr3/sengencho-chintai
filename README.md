@@ -1,4 +1,4 @@
-# Asamacho Rent Watch
+# Sengencho Rent Watch
 
 浅間町向けの賃貸ウォッチャーです。`1時間おき` の収集を前提に、物件の新着・更新・経過日数を一覧表示します。
 
